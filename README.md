@@ -33,7 +33,6 @@ Traditional workflow using EnCase file listings:
 
 ---
 
-📦 Download
-Download the executable from the release section:
+📦 Download the executable from the release section:
 
 👉 https://github.com/IRB0T/WhatDeleted/releases/download/v1.0/WhatDeleted.exe
